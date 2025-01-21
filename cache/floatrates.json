@@ -2,733 +2,879 @@
 	"floatrates": [
 		{
 			"currency": "AUD",
-			"rate": 1.6600866162339,
-			"name": "Australian Dollar"
+			"rate": 1.6618059504747,
+			"name": "Australian Dollar",
+			"flagUrl": "https://flagcdn.com/w40/aud.png"
 		},
 		{
 			"currency": "CAD",
-			"rate": 1.4955264407339,
-			"name": "Canadian Dollar"
+			"rate": 1.496052145961,
+			"name": "Canadian Dollar",
+			"flagUrl": "https://flagcdn.com/w40/cad.png"
 		},
 		{
 			"currency": "CHF",
-			"rate": 0.94264311104822,
-			"name": "Swiss Franc"
+			"rate": 0.94265693933531,
+			"name": "Swiss Franc",
+			"flagUrl": "https://flagcdn.com/w40/chf.png"
 		},
 		{
 			"currency": "CNY",
-			"rate": 7.5378721460657,
-			"name": "Chinese Yuan"
+			"rate": 7.541248584542,
+			"name": "Chinese Yuan",
+			"flagUrl": "https://flagcdn.com/w40/cny.png"
 		},
 		{
 			"currency": "GBP",
-			"rate": 0.84514147050952,
-			"name": "U.K. Pound Sterling"
+			"rate": 0.84523799716579,
+			"name": "U.K. Pound Sterling",
+			"flagUrl": "https://flagcdn.com/w40/gbp.png"
 		},
 		{
 			"currency": "HKD",
-			"rate": 8.07030778334,
-			"name": "Hong Kong Dollar"
+			"rate": 8.0691152782865,
+			"name": "Hong Kong Dollar",
+			"flagUrl": "https://flagcdn.com/w40/hkd.png"
 		},
 		{
 			"currency": "IDR",
-			"rate": 16947.326740544,
-			"name": "Indonesian Rupiah"
+			"rate": 16940.874725064,
+			"name": "Indonesian Rupiah",
+			"flagUrl": "https://flagcdn.com/w40/idr.png"
 		},
 		{
 			"currency": "INR",
-			"rate": 89.619801215526,
-			"name": "Indian Rupee"
+			"rate": 89.655936604115,
+			"name": "Indian Rupee",
+			"flagUrl": "https://flagcdn.com/w40/inr.png"
 		},
 		{
 			"currency": "JPY",
-			"rate": 161.27587741791,
-			"name": "Japanese Yen"
+			"rate": 161.27337951385,
+			"name": "Japanese Yen",
+			"flagUrl": "https://flagcdn.com/w40/jpy.png"
 		},
 		{
 			"currency": "KRW",
-			"rate": 1491.2070472946,
-			"name": "South Korean Won"
+			"rate": 1492.2012610357,
+			"name": "South Korean Won",
+			"flagUrl": "https://flagcdn.com/w40/krw.png"
 		},
 		{
 			"currency": "MYR",
-			"rate": 4.6419190064491,
-			"name": "Malaysian Ringgit"
+			"rate": 4.6406013418022,
+			"name": "Malaysian Ringgit",
+			"flagUrl": "https://flagcdn.com/w40/myr.png"
 		},
 		{
 			"currency": "NZD",
-			"rate": 1.8346110492922,
-			"name": "New Zealand Dollar"
+			"rate": 1.8370117210679,
+			"name": "New Zealand Dollar",
+			"flagUrl": "https://flagcdn.com/w40/nzd.png"
 		},
 		{
 			"currency": "PHP",
-			"rate": 60.595658730471,
-			"name": "Philippine Peso"
+			"rate": 60.611350757517,
+			"name": "Philippine Peso",
+			"flagUrl": "https://flagcdn.com/w40/php.png"
 		},
 		{
 			"currency": "SGD",
-			"rate": 1.4081654720444,
-			"name": "Singapore Dollar"
+			"rate": 1.4082506050559,
+			"name": "Singapore Dollar",
+			"flagUrl": "https://flagcdn.com/w40/sgd.png"
 		},
 		{
 			"currency": "THB",
-			"rate": 35.276157863946,
-			"name": "Thai Baht"
+			"rate": 35.294644503657,
+			"name": "Thai Baht",
+			"flagUrl": "https://flagcdn.com/w40/thb.png"
 		},
 		{
 			"currency": "TWD",
-			"rate": 33.888479963718,
-			"name": "New Taiwan Dollar "
+			"rate": 33.888583479554,
+			"name": "New Taiwan Dollar ",
+			"flagUrl": "https://flagcdn.com/w40/twd.png"
 		},
 		{
 			"currency": "USD",
-			"rate": 1.0370671463921,
-			"name": "U.S. Dollar"
+			"rate": 1.0367343598038,
+			"name": "U.S. Dollar",
+			"flagUrl": "https://flagcdn.com/w40/usd.png"
 		},
 		{
 			"currency": "VND",
-			"rate": 26198.018839728,
-			"name": "Vietnamese Dong"
+			"rate": 26203.210964021,
+			"name": "Vietnamese Dong",
+			"flagUrl": "https://flagcdn.com/w40/vnd.png"
 		},
 		{
 			"currency": "AED",
-			"rate": 3.808997325667,
-			"name": "U.A.E Dirham"
+			"rate": 3.8140926670022,
+			"name": "U.A.E Dirham",
+			"flagUrl": "https://flagcdn.com/w40/aed.png"
 		},
 		{
 			"currency": "BGN",
-			"rate": 1.9592777307298,
-			"name": "Bulgarian Lev"
+			"rate": 1.9579799138502,
+			"name": "Bulgarian Lev",
+			"flagUrl": "https://flagcdn.com/w40/bgn.png"
 		},
 		{
 			"currency": "BRL",
-			"rate": 6.2554416129551,
-			"name": "Brazilian Real"
+			"rate": 6.2823881327678,
+			"name": "Brazilian Real",
+			"flagUrl": "https://flagcdn.com/w40/brl.png"
 		},
 		{
 			"currency": "CZK",
-			"rate": 25.21979280578,
-			"name": "Czech Koruna"
+			"rate": 25.205411303814,
+			"name": "Czech Koruna",
+			"flagUrl": "https://flagcdn.com/w40/czk.png"
 		},
 		{
 			"currency": "DKK",
-			"rate": 7.4743528764496,
-			"name": "Danish Krone"
+			"rate": 7.4695551019754,
+			"name": "Danish Krone",
+			"flagUrl": "https://flagcdn.com/w40/dkk.png"
 		},
 		{
 			"currency": "EGP",
-			"rate": 52.150592045664,
-			"name": "Egyptian Pound"
+			"rate": 52.120301454921,
+			"name": "Egyptian Pound",
+			"flagUrl": "https://flagcdn.com/w40/egp.png"
 		},
 		{
 			"currency": "HUF",
-			"rate": 412.67786691451,
-			"name": "Hungarian Forint"
+			"rate": 411.99466788253,
+			"name": "Hungarian Forint",
+			"flagUrl": "https://flagcdn.com/w40/huf.png"
 		},
 		{
 			"currency": "ILS",
-			"rate": 3.7103965105717,
-			"name": "Israeli New Sheqel"
+			"rate": 3.7166981842896,
+			"name": "Israeli New Sheqel",
+			"flagUrl": "https://flagcdn.com/w40/ils.png"
 		},
 		{
 			"currency": "ISK",
-			"rate": 146.15517412395,
-			"name": "Icelandic Krona"
+			"rate": 146.05450570215,
+			"name": "Icelandic Krona",
+			"flagUrl": "https://flagcdn.com/w40/isk.png"
 		},
 		{
 			"currency": "MDL",
-			"rate": 19.361540192488,
-			"name": "Moldova Lei"
+			"rate": 19.37875204547,
+			"name": "Moldova Lei",
+			"flagUrl": "https://flagcdn.com/w40/mdl.png"
 		},
 		{
 			"currency": "MXN",
-			"rate": 21.531008953604,
-			"name": "Mexican Peso"
+			"rate": 21.51193555455,
+			"name": "Mexican Peso",
+			"flagUrl": "https://flagcdn.com/w40/mxn.png"
 		},
 		{
 			"currency": "NOK",
-			"rate": 11.822692309777,
-			"name": "Norwegian Krone"
+			"rate": 11.827641350735,
+			"name": "Norwegian Krone",
+			"flagUrl": "https://flagcdn.com/w40/nok.png"
 		},
 		{
 			"currency": "PLN",
-			"rate": 4.2614575342732,
-			"name": "Polish Zloty"
+			"rate": 4.2586164840835,
+			"name": "Polish Zloty",
+			"flagUrl": "https://flagcdn.com/w40/pln.png"
 		},
 		{
 			"currency": "RON",
-			"rate": 4.9854589304181,
-			"name": "Romanian New Leu"
+			"rate": 4.9823278790339,
+			"name": "Romanian New Leu",
+			"flagUrl": "https://flagcdn.com/w40/ron.png"
 		},
 		{
 			"currency": "RSD",
-			"rate": 117.30815528389,
-			"name": "Serbian Dinar"
+			"rate": 117.19840030849,
+			"name": "Serbian Dinar",
+			"flagUrl": "https://flagcdn.com/w40/rsd.png"
 		},
 		{
 			"currency": "RUB",
-			"rate": 103.65065695562,
-			"name": "Russian Rouble"
+			"rate": 103.39230644145,
+			"name": "Russian Rouble",
+			"flagUrl": "https://flagcdn.com/w40/rub.png"
 		},
 		{
 			"currency": "SEK",
-			"rate": 11.50004174498,
-			"name": "Swedish Krona"
+			"rate": 11.488384648059,
+			"name": "Swedish Krona",
+			"flagUrl": "https://flagcdn.com/w40/sek.png"
 		},
 		{
 			"currency": "TRY",
-			"rate": 36.960721842113,
-			"name": "Turkish Lira"
+			"rate": 36.939078581374,
+			"name": "Turkish Lira",
+			"flagUrl": "https://flagcdn.com/w40/try.png"
 		},
 		{
 			"currency": "UAH",
-			"rate": 43.725368051896,
-			"name": "Ukrainian Hryvnia"
+			"rate": 43.71257284931,
+			"name": "Ukrainian Hryvnia",
+			"flagUrl": "https://flagcdn.com/w40/uah.png"
 		},
 		{
 			"currency": "ZAR",
-			"rate": 19.338675658862,
-			"name": "South African Rand"
+			"rate": 19.29337851602,
+			"name": "South African Rand",
+			"flagUrl": "https://flagcdn.com/w40/zar.png"
 		},
 		{
 			"currency": "CLP",
-			"rate": 1038.8617300478,
-			"name": "Chilean Peso"
+			"rate": 1038.5283675919,
+			"name": "Chilean Peso",
+			"flagUrl": "https://flagcdn.com/w40/clp.png"
 		},
 		{
 			"currency": "AMD",
-			"rate": 413.93805283448,
-			"name": "Armenia Dram"
+			"rate": 412.46444958174,
+			"name": "Armenia Dram",
+			"flagUrl": "https://flagcdn.com/w40/amd.png"
 		},
 		{
 			"currency": "AZN",
-			"rate": 1.7630147308678,
-			"name": "Azerbaijan Manat"
+			"rate": 1.7626536625547,
+			"name": "Azerbaijan Manat",
+			"flagUrl": "https://flagcdn.com/w40/azn.png"
 		},
 		{
 			"currency": "BDT",
-			"rate": 126.36811964933,
-			"name": "Bangladeshi taka"
+			"rate": 125.52623569118,
+			"name": "Bangladeshi taka",
+			"flagUrl": "https://flagcdn.com/w40/bdt.png"
 		},
 		{
 			"currency": "DOP",
-			"rate": 63.659338509837,
-			"name": "Dominican Peso"
+			"rate": 63.334025888356,
+			"name": "Dominican Peso",
+			"flagUrl": "https://flagcdn.com/w40/dop.png"
 		},
 		{
 			"currency": "DZD",
-			"rate": 140.71372969986,
-			"name": "Algerian Dinar"
+			"rate": 141.00262777448,
+			"name": "Algerian Dinar",
+			"flagUrl": "https://flagcdn.com/w40/dzd.png"
 		},
 		{
 			"currency": "GEL",
-			"rate": 2.9486171756829,
-			"name": "Georgian lari"
+			"rate": 2.9330885252327,
+			"name": "Georgian lari",
+			"flagUrl": "https://flagcdn.com/w40/gel.png"
 		},
 		{
 			"currency": "IQD",
-			"rate": 1358.9254505739,
-			"name": "Iraqi dinar"
+			"rate": 1362.5185353735,
+			"name": "Iraqi dinar",
+			"flagUrl": "https://flagcdn.com/w40/iqd.png"
 		},
 		{
 			"currency": "KGS",
-			"rate": 90.671382109784,
-			"name": "Kyrgyzstan Som"
+			"rate": 90.484858190347,
+			"name": "Kyrgyzstan Som",
+			"flagUrl": "https://flagcdn.com/w40/kgs.png"
 		},
 		{
 			"currency": "KZT",
-			"rate": 549.96723607112,
-			"name": "Kazakhstani Tenge"
+			"rate": 543.1249961351,
+			"name": "Kazakhstani Tenge",
+			"flagUrl": "https://flagcdn.com/w40/kzt.png"
 		},
 		{
 			"currency": "LYD",
-			"rate": 5.1335537352079,
-			"name": "Libyan Dinar"
+			"rate": 5.113050129118,
+			"name": "Libyan Dinar",
+			"flagUrl": "https://flagcdn.com/w40/lyd.png"
 		},
 		{
 			"currency": "MAD",
-			"rate": 10.426119077572,
-			"name": "Moroccan Dirham"
+			"rate": 10.517525909181,
+			"name": "Moroccan Dirham",
+			"flagUrl": "https://flagcdn.com/w40/mad.png"
 		},
 		{
 			"currency": "PKR",
-			"rate": 289.06946459088,
-			"name": "Pakistani Rupee"
+			"rate": 289.36455576631,
+			"name": "Pakistani Rupee",
+			"flagUrl": "https://flagcdn.com/w40/pkr.png"
 		},
 		{
 			"currency": "SAR",
-			"rate": 3.8911067347415,
-			"name": "Saudi Riyal"
+			"rate": 3.9065123087783,
+			"name": "Saudi Riyal",
+			"flagUrl": "https://flagcdn.com/w40/sar.png"
 		},
 		{
 			"currency": "TJS",
-			"rate": 11.349172929158,
-			"name": "Tajikistan Ruble"
+			"rate": 11.374055442816,
+			"name": "Tajikistan Ruble",
+			"flagUrl": "https://flagcdn.com/w40/tjs.png"
 		},
 		{
 			"currency": "TMT",
-			"rate": 3.6307218923164,
-			"name": "New Turkmenistan Manat"
+			"rate": 3.6403721302523,
+			"name": "New Turkmenistan Manat",
+			"flagUrl": "https://flagcdn.com/w40/tmt.png"
 		},
 		{
 			"currency": "TND",
-			"rate": 3.3239471441816,
-			"name": "Tunisian Dinar"
+			"rate": 3.3141812308227,
+			"name": "Tunisian Dinar",
+			"flagUrl": "https://flagcdn.com/w40/tnd.png"
 		},
 		{
 			"currency": "UZS",
-			"rate": 13450.466266728,
-			"name": "Uzbekistan Sum"
+			"rate": 13438.791444226,
+			"name": "Uzbekistan Sum",
+			"flagUrl": "https://flagcdn.com/w40/uzs.png"
 		},
 		{
 			"currency": "JOD",
-			"rate": 0.73536095608043,
-			"name": "Jordanian Dinar"
+			"rate": 0.73581586101796,
+			"name": "Jordanian Dinar",
+			"flagUrl": "https://flagcdn.com/w40/jod.png"
 		},
 		{
 			"currency": "LBP",
-			"rate": 92817.509602096,
-			"name": "Lebanese Pound"
-		},
-		{
-			"currency": "BYN",
-			"rate": 3.3939378470902,
-			"name": "Belarussian Ruble"
-		},
-		{
-			"currency": "AFN",
-			"rate": 77.130411328384,
-			"name": "Afghan afghani"
-		},
-		{
-			"currency": "ALL",
-			"rate": 98.730481239988,
-			"name": "Albanian lek"
-		},
-		{
-			"currency": "ANG",
-			"rate": 1.8563863828303,
-			"name": "Neth. Antillean Guilder"
-		},
-		{
-			"currency": "AOA",
-			"rate": 952.38070163441,
-			"name": "Angolan kwanza"
-		},
-		{
-			"currency": "ARS",
-			"rate": 1081.0060762623,
-			"name": "Argentine Peso"
-		},
-		{
-			"currency": "AWG",
-			"rate": 1.8563863828303,
-			"name": "Aruban florin"
-		},
-		{
-			"currency": "BAM",
-			"rate": 1.9661952665065,
-			"name": "Bosnia and Herzegovina convertible mark"
-		},
-		{
-			"currency": "BBD",
-			"rate": 2.0741342927843,
-			"name": "Barbadian Dollar"
-		},
-		{
-			"currency": "BHD",
-			"rate": 0.39005627452515,
-			"name": "Bahrain Dinar"
-		},
-		{
-			"currency": "BIF",
-			"rate": 3026.2134045157,
-			"name": "Burundian franc"
-		},
-		{
-			"currency": "BND",
-			"rate": 1.4151603547656,
-			"name": "Brunei Dollar"
-		},
-		{
-			"currency": "BOB",
-			"rate": 7.1656643772257,
-			"name": "Bolivian Boliviano"
-		},
-		{
-			"currency": "BSD",
-			"rate": 1.0370671463921,
-			"name": "Bahamian Dollar"
-		},
-		{
-			"currency": "BWP",
-			"rate": 14.484156680679,
-			"name": "Botswana Pula"
-		},
-		{
-			"currency": "BZD",
-			"rate": 2.0741342927843,
-			"name": "Belize dollar"
-		},
-		{
-			"currency": "CDF",
-			"rate": 2933.3446246301,
-			"name": "Congolese franc"
-		},
-		{
-			"currency": "COP",
-			"rate": 4496.1361404875,
-			"name": "Colombian Peso"
-		},
-		{
-			"currency": "CRC",
-			"rate": 520.68136605671,
-			"name": "Costa Rican Colón"
-		},
-		{
-			"currency": "CUP",
-			"rate": 24.889611513411,
-			"name": "Cuban peso"
-		},
-		{
-			"currency": "CVE",
-			"rate": 110.84936884154,
-			"name": "Cape Verde escudo"
-		},
-		{
-			"currency": "DJF",
-			"rate": 184.30862681087,
-			"name": "Djiboutian franc"
-		},
-		{
-			"currency": "ERN",
-			"rate": 15.950084669114,
-			"name": "Eritrean nakfa"
-		},
-		{
-			"currency": "ETB",
-			"rate": 132.47185693593,
-			"name": "Ethiopian birr"
-		},
-		{
-			"currency": "FJD",
-			"rate": 2.4430792741006,
-			"name": "Fiji Dollar"
-		},
-		{
-			"currency": "GHS",
-			"rate": 15.471260433144,
-			"name": "Ghanaian Cedi"
-		},
-		{
-			"currency": "GIP",
-			"rate": 0.8503628904519,
-			"name": "Gibraltar pound"
-		},
-		{
-			"currency": "GMD",
-			"rate": 72.5323716675,
-			"name": "Gambian dalasi"
-		},
-		{
-			"currency": "GNF",
-			"rate": 8923.1390521493,
-			"name": "Guinean franc"
-		},
-		{
-			"currency": "GTQ",
-			"rate": 8.0043970851139,
-			"name": "Guatemalan Quetzal"
-		},
-		{
-			"currency": "GYD",
-			"rate": 216.97523662255,
-			"name": "Guyanese dollar"
-		},
-		{
-			"currency": "HNL",
-			"rate": 26.348803994012,
-			"name": "Honduran Lempira"
-		},
-		{
-			"currency": "HTG",
-			"rate": 135.04906867051,
-			"name": "Haitian gourde"
-		},
-		{
-			"currency": "JMD",
-			"rate": 162.91202955381,
-			"name": "Jamaican Dollar"
-		},
-		{
-			"currency": "KES",
-			"rate": 134.25646492185,
-			"name": "Kenyan shilling"
-		},
-		{
-			"currency": "KHR",
-			"rate": 4185.1128187163,
-			"name": "Cambodian riel"
-		},
-		{
-			"currency": "KMF",
-			"rate": 494.57501997815,
-			"name": "\tComoro franc"
-		},
-		{
-			"currency": "KWD",
-			"rate": 0.32008741703301,
-			"name": "Kuwaiti Dinar"
-		},
-		{
-			"currency": "LAK",
-			"rate": 21316.374342864,
-			"name": "Lao kip"
-		},
-		{
-			"currency": "LKR",
-			"rate": 307.54941999628,
-			"name": "Sri Lanka Rupee"
-		},
-		{
-			"currency": "LRD",
-			"rate": 199.75988178045,
-			"name": "Liberian dollar"
-		},
-		{
-			"currency": "LSL",
-			"rate": 19.440585676275,
-			"name": "Lesotho loti"
-		},
-		{
-			"currency": "MGA",
-			"rate": 4859.5784247516,
-			"name": "Malagasy ariary"
-		},
-		{
-			"currency": "MKD",
-			"rate": 61.998741125999,
-			"name": "Macedonian denar"
-		},
-		{
-			"currency": "MMK",
-			"rate": 2177.8812194105,
-			"name": "Myanma Kyat"
-		},
-		{
-			"currency": "MNT",
-			"rate": 3557.8158735077,
-			"name": "Mongolian togrog"
-		},
-		{
-			"currency": "MOP",
-			"rate": 8.3148336252514,
-			"name": "Macanese pataca"
-		},
-		{
-			"currency": "MRU",
-			"rate": 41.213265542354,
-			"name": "Mauritanian ouguiya"
-		},
-		{
-			"currency": "MUR",
-			"rate": 48.6278533072,
-			"name": "Mauritian Rupee"
-		},
-		{
-			"currency": "MVR",
-			"rate": 15.970793842452,
-			"name": "Maldivian rufiyaa"
-		},
-		{
-			"currency": "MWK",
-			"rate": 1798.1975264187,
-			"name": "Malawian kwacha"
-		},
-		{
-			"currency": "MZN",
-			"rate": 66.229142695147,
-			"name": "Mozambican metical"
-		},
-		{
-			"currency": "NAD",
-			"rate": 19.440585676275,
-			"name": "Namibian dollar"
-		},
-		{
-			"currency": "NGN",
-			"rate": 1604.425812692,
-			"name": "Nigerian Naira"
-		},
-		{
-			"currency": "NIO",
-			"rate": 38.174546209861,
-			"name": "Nicaraguan Córdoba"
-		},
-		{
-			"currency": "NPR",
-			"rate": 143.59459308792,
-			"name": "Nepalese Rupee"
-		},
-		{
-			"currency": "OMR",
-			"rate": 0.39880238171167,
-			"name": "Omani Rial"
-		},
-		{
-			"currency": "PAB",
-			"rate": 1.0370671463921,
-			"name": "Panamanian Balboa"
-		},
-		{
-			"currency": "PEN",
-			"rate": 3.8734196962401,
-			"name": "Peruvian Nuevo Sol"
-		},
-		{
-			"currency": "PGK",
-			"rate": 4.1952160804663,
-			"name": "Papua New Guinean kina"
-		},
-		{
-			"currency": "PYG",
-			"rate": 8217.6502632601,
-			"name": "Paraguayan Guaraní"
-		},
-		{
-			"currency": "QAR",
-			"rate": 3.7749002856751,
-			"name": "Qatari Rial"
-		},
-		{
-			"currency": "RWF",
-			"rate": 1441.7486211426,
-			"name": "Rwandan franc"
-		},
-		{
-			"currency": "SBD",
-			"rate": 8.8185892932013,
-			"name": "Solomon Islands dollar"
-		},
-		{
-			"currency": "SCR",
-			"rate": 15.264771879568,
-			"name": "Seychelles rupee"
-		},
-		{
-			"currency": "SDG",
-			"rate": 622.72846135824,
-			"name": "Sudanese pound"
-		},
-		{
-			"currency": "SOS",
-			"rate": 592.75645679976,
-			"name": "Somali shilling"
-		},
-		{
-			"currency": "SRD",
-			"rate": 36.407933088152,
-			"name": "Surinamese dollar"
-		},
-		{
-			"currency": "SSP",
-			"rate": 4399.0347591611,
-			"name": "South Sudanese pound"
-		},
-		{
-			"currency": "STN",
-			"rate": 24.629842076975,
-			"name": "São Tomé and Príncipe Dobra"
-		},
-		{
-			"currency": "SVC",
-			"rate": 9.0743375309312,
-			"name": "Salvadoran colon"
-		},
-		{
-			"currency": "SZL",
-			"rate": 19.440585676275,
-			"name": "Swazi lilangeni"
-		},
-		{
-			"currency": "TOP",
-			"rate": 2.5104343524335,
-			"name": "Tongan paʻanga"
-		},
-		{
-			"currency": "TTD",
-			"rate": 7.0362934965372,
-			"name": "Trinidad Tobago Dollar"
-		},
-		{
-			"currency": "TZS",
-			"rate": 2599.0532279363,
-			"name": "Tanzanian shilling"
-		},
-		{
-			"currency": "UGX",
-			"rate": 3814.4889869401,
-			"name": "Ugandan shilling"
-		},
-		{
-			"currency": "UYU",
-			"rate": 45.593376493458,
-			"name": "Uruguayan Peso"
-		},
-		{
-			"currency": "VES",
-			"rate": 56.862117925589,
-			"name": "Venezuelan Bolivar"
-		},
-		{
-			"currency": "VUV",
-			"rate": 128.84925955126,
-			"name": "Vanuatu vatu"
-		},
-		{
-			"currency": "WST",
-			"rate": 2.9430148032793,
-			"name": "Samoan tala"
+			"rate": 92865.480279423,
+			"name": "Lebanese Pound",
+			"flagUrl": "https://flagcdn.com/w40/lbp.png"
 		},
 		{
 			"currency": "XAF",
-			"rate": 659.43335997087,
-			"name": "Central African CFA Franc"
-		},
-		{
-			"currency": "XCD",
-			"rate": 2.8000611892652,
-			"name": "East Caribbean Dollar"
+			"rate": 656.61210819136,
+			"name": "Central African CFA Franc",
+			"flagUrl": "https://flagcdn.com/w40/xaf.png"
 		},
 		{
 			"currency": "XOF",
-			"rate": 659.43335997087,
-			"name": "West African CFA Franc"
+			"rate": 656.61210819136,
+			"name": "West African CFA Franc",
+			"flagUrl": "https://flagcdn.com/w40/xof.png"
+		},
+		{
+			"currency": "BYN",
+			"rate": 3.3928487910317,
+			"name": "Belarussian Ruble",
+			"flagUrl": "https://flagcdn.com/w40/byn.png"
+		},
+		{
+			"currency": "AFN",
+			"rate": 77.105660793633,
+			"name": "Afghan afghani",
+			"flagUrl": "https://flagcdn.com/w40/afn.png"
+		},
+		{
+			"currency": "ALL",
+			"rate": 98.698799414819,
+			"name": "Albanian lek",
+			"flagUrl": "https://flagcdn.com/w40/all.png"
+		},
+		{
+			"currency": "ANG",
+			"rate": 1.8557906832238,
+			"name": "Neth. Antillean Guilder",
+			"flagUrl": "https://flagcdn.com/w40/ang.png"
+		},
+		{
+			"currency": "AOA",
+			"rate": 952.07509025174,
+			"name": "Angolan kwanza",
+			"flagUrl": "https://flagcdn.com/w40/aoa.png"
+		},
+		{
+			"currency": "ARS",
+			"rate": 1080.6591900212,
+			"name": "Argentine Peso",
+			"flagUrl": "https://flagcdn.com/w40/ars.png"
+		},
+		{
+			"currency": "AWG",
+			"rate": 1.8557906832238,
+			"name": "Aruban florin",
+			"flagUrl": "https://flagcdn.com/w40/awg.png"
+		},
+		{
+			"currency": "BAM",
+			"rate": 1.9655643301037,
+			"name": "Bosnia and Herzegovina convertible mark",
+			"flagUrl": "https://flagcdn.com/w40/bam.png"
+		},
+		{
+			"currency": "BBD",
+			"rate": 2.0734687196075,
+			"name": "Barbadian Dollar",
+			"flagUrl": "https://flagcdn.com/w40/bbd.png"
+		},
+		{
+			"currency": "BHD",
+			"rate": 0.38993110857295,
+			"name": "Bahrain Dinar",
+			"flagUrl": "https://flagcdn.com/w40/bhd.png"
+		},
+		{
+			"currency": "BIF",
+			"rate": 3025.2423167341,
+			"name": "Burundian franc",
+			"flagUrl": "https://flagcdn.com/w40/bif.png"
+		},
+		{
+			"currency": "BND",
+			"rate": 1.4147062410777,
+			"name": "Brunei Dollar",
+			"flagUrl": "https://flagcdn.com/w40/bnd.png"
+		},
+		{
+			"currency": "BOB",
+			"rate": 7.1633649725923,
+			"name": "Bolivian Boliviano",
+			"flagUrl": "https://flagcdn.com/w40/bob.png"
+		},
+		{
+			"currency": "BSD",
+			"rate": 1.0367343598038,
+			"name": "Bahamian Dollar",
+			"flagUrl": "https://flagcdn.com/w40/bsd.png"
+		},
+		{
+			"currency": "BWP",
+			"rate": 14.479508830148,
+			"name": "Botswana Pula",
+			"flagUrl": "https://flagcdn.com/w40/bwp.png"
+		},
+		{
+			"currency": "BZD",
+			"rate": 2.0734687196075,
+			"name": "Belize dollar",
+			"flagUrl": "https://flagcdn.com/w40/bzd.png"
+		},
+		{
+			"currency": "CDF",
+			"rate": 2932.4033377004,
+			"name": "Congolese franc",
+			"flagUrl": "https://flagcdn.com/w40/cdf.png"
+		},
+		{
+			"currency": "COP",
+			"rate": 4494.6933662059,
+			"name": "Colombian Peso",
+			"flagUrl": "https://flagcdn.com/w40/cop.png"
+		},
+		{
+			"currency": "CRC",
+			"rate": 520.5142835529,
+			"name": "Costa Rican Colón",
+			"flagUrl": "https://flagcdn.com/w40/crc.png"
+		},
+		{
+			"currency": "CUP",
+			"rate": 24.88162463529,
+			"name": "Cuban peso",
+			"flagUrl": "https://flagcdn.com/w40/cup.png"
+		},
+		{
+			"currency": "CVE",
+			"rate": 110.81379816185,
+			"name": "Cape Verde escudo",
+			"flagUrl": "https://flagcdn.com/w40/cve.png"
+		},
+		{
+			"currency": "DJF",
+			"rate": 184.24948364031,
+			"name": "Djiboutian franc",
+			"flagUrl": "https://flagcdn.com/w40/djf.png"
+		},
+		{
+			"currency": "ERN",
+			"rate": 15.944966413965,
+			"name": "Eritrean nakfa",
+			"flagUrl": "https://flagcdn.com/w40/ern.png"
+		},
+		{
+			"currency": "ETB",
+			"rate": 132.42934777201,
+			"name": "Ethiopian birr",
+			"flagUrl": "https://flagcdn.com/w40/etb.png"
+		},
+		{
+			"currency": "FJD",
+			"rate": 2.4422953094175,
+			"name": "Fiji Dollar",
+			"flagUrl": "https://flagcdn.com/w40/fjd.png"
+		},
+		{
+			"currency": "GHS",
+			"rate": 15.466295828879,
+			"name": "Ghanaian Cedi",
+			"flagUrl": "https://flagcdn.com/w40/ghs.png"
+		},
+		{
+			"currency": "GIP",
+			"rate": 0.8500900157724,
+			"name": "Gibraltar pound",
+			"flagUrl": "https://flagcdn.com/w40/gip.png"
+		},
+		{
+			"currency": "GMD",
+			"rate": 72.509096607058,
+			"name": "Gambian dalasi",
+			"flagUrl": "https://flagcdn.com/w40/gmd.png"
+		},
+		{
+			"currency": "GNF",
+			"rate": 8920.2756878888,
+			"name": "Guinean franc",
+			"flagUrl": "https://flagcdn.com/w40/gnf.png"
+		},
+		{
+			"currency": "GTQ",
+			"rate": 8.0018285378339,
+			"name": "Guatemalan Quetzal",
+			"flagUrl": "https://flagcdn.com/w40/gtq.png"
+		},
+		{
+			"currency": "GYD",
+			"rate": 216.90561099704,
+			"name": "Guyanese dollar",
+			"flagUrl": "https://flagcdn.com/w40/gyd.png"
+		},
+		{
+			"currency": "HNL",
+			"rate": 26.340348872645,
+			"name": "Honduran Lempira",
+			"flagUrl": "https://flagcdn.com/w40/hnl.png"
+		},
+		{
+			"currency": "HTG",
+			"rate": 135.00573249987,
+			"name": "Haitian gourde",
+			"flagUrl": "https://flagcdn.com/w40/htg.png"
+		},
+		{
+			"currency": "JMD",
+			"rate": 162.85975238091,
+			"name": "Jamaican Dollar",
+			"flagUrl": "https://flagcdn.com/w40/jmd.png"
+		},
+		{
+			"currency": "KES",
+			"rate": 134.21338309144,
+			"name": "Kenyan shilling",
+			"flagUrl": "https://flagcdn.com/w40/kes.png"
+		},
+		{
+			"currency": "KHR",
+			"rate": 4183.7698493418,
+			"name": "Cambodian riel",
+			"flagUrl": "https://flagcdn.com/w40/khr.png"
+		},
+		{
+			"currency": "KMF",
+			"rate": 494.41631479289,
+			"name": "\tComoro franc",
+			"flagUrl": "https://flagcdn.com/w40/kmf.png"
+		},
+		{
+			"currency": "KWD",
+			"rate": 0.31998470352997,
+			"name": "Kuwaiti Dinar",
+			"flagUrl": "https://flagcdn.com/w40/kwd.png"
+		},
+		{
+			"currency": "LAK",
+			"rate": 21309.534088095,
+			"name": "Lao kip",
+			"flagUrl": "https://flagcdn.com/w40/lak.png"
+		},
+		{
+			"currency": "LKR",
+			"rate": 307.45072983664,
+			"name": "Sri Lanka Rupee",
+			"flagUrl": "https://flagcdn.com/w40/lkr.png"
+		},
+		{
+			"currency": "LRD",
+			"rate": 199.69578042522,
+			"name": "Liberian dollar",
+			"flagUrl": "https://flagcdn.com/w40/lrd.png"
+		},
+		{
+			"currency": "LSL",
+			"rate": 19.434347347151,
+			"name": "Lesotho loti",
+			"flagUrl": "https://flagcdn.com/w40/lsl.png"
+		},
+		{
+			"currency": "MGA",
+			"rate": 4858.0190247353,
+			"name": "Malagasy ariary",
+			"flagUrl": "https://flagcdn.com/w40/mga.png"
+		},
+		{
+			"currency": "MKD",
+			"rate": 61.978846223712,
+			"name": "Macedonian denar",
+			"flagUrl": "https://flagcdn.com/w40/mkd.png"
+		},
+		{
+			"currency": "MMK",
+			"rate": 2177.1823546713,
+			"name": "Myanma Kyat",
+			"flagUrl": "https://flagcdn.com/w40/mmk.png"
+		},
+		{
+			"currency": "MNT",
+			"rate": 3556.6741987273,
+			"name": "Mongolian togrog",
+			"flagUrl": "https://flagcdn.com/w40/mnt.png"
+		},
+		{
+			"currency": "MOP",
+			"rate": 8.312165461358,
+			"name": "Macanese pataca",
+			"flagUrl": "https://flagcdn.com/w40/mop.png"
+		},
+		{
+			"currency": "MRU",
+			"rate": 41.200040533652,
+			"name": "Mauritanian ouguiya",
+			"flagUrl": "https://flagcdn.com/w40/mru.png"
+		},
+		{
+			"currency": "MUR",
+			"rate": 48.612249016332,
+			"name": "Mauritian Rupee",
+			"flagUrl": "https://flagcdn.com/w40/mur.png"
+		},
+		{
+			"currency": "MVR",
+			"rate": 15.965668941895,
+			"name": "Maldivian rufiyaa",
+			"flagUrl": "https://flagcdn.com/w40/mvr.png"
+		},
+		{
+			"currency": "MWK",
+			"rate": 1797.6204991528,
+			"name": "Malawian kwacha",
+			"flagUrl": "https://flagcdn.com/w40/mwk.png"
+		},
+		{
+			"currency": "MZN",
+			"rate": 66.207890290686,
+			"name": "Mozambican metical",
+			"flagUrl": "https://flagcdn.com/w40/mzn.png"
+		},
+		{
+			"currency": "NAD",
+			"rate": 19.434347347151,
+			"name": "Namibian dollar",
+			"flagUrl": "https://flagcdn.com/w40/nad.png"
+		},
+		{
+			"currency": "NGN",
+			"rate": 1603.9109652258,
+			"name": "Nigerian Naira",
+			"flagUrl": "https://flagcdn.com/w40/ngn.png"
+		},
+		{
+			"currency": "NIO",
+			"rate": 38.162296301993,
+			"name": "Nicaraguan Córdoba",
+			"flagUrl": "https://flagcdn.com/w40/nio.png"
+		},
+		{
+			"currency": "NPR",
+			"rate": 143.54851472655,
+			"name": "Nepalese Rupee",
+			"flagUrl": "https://flagcdn.com/w40/npr.png"
+		},
+		{
+			"currency": "OMR",
+			"rate": 0.39867440920333,
+			"name": "Omani Rial",
+			"flagUrl": "https://flagcdn.com/w40/omr.png"
+		},
+		{
+			"currency": "PAB",
+			"rate": 1.0367343598038,
+			"name": "Panamanian Balboa",
+			"flagUrl": "https://flagcdn.com/w40/pab.png"
+		},
+		{
+			"currency": "PEN",
+			"rate": 3.8721767467064,
+			"name": "Peruvian Nuevo Sol",
+			"flagUrl": "https://flagcdn.com/w40/pen.png"
+		},
+		{
+			"currency": "PGK",
+			"rate": 4.1938698690355,
+			"name": "Papua New Guinean kina",
+			"flagUrl": "https://flagcdn.com/w40/pgk.png"
+		},
+		{
+			"currency": "PYG",
+			"rate": 8215.0132847336,
+			"name": "Paraguayan Guaraní",
+			"flagUrl": "https://flagcdn.com/w40/pyg.png"
+		},
+		{
+			"currency": "QAR",
+			"rate": 3.7736889502357,
+			"name": "Qatari Rial",
+			"flagUrl": "https://flagcdn.com/w40/qar.png"
+		},
+		{
+			"currency": "RWF",
+			"rate": 1441.2859754917,
+			"name": "Rwandan franc",
+			"flagUrl": "https://flagcdn.com/w40/rwf.png"
+		},
+		{
+			"currency": "SBD",
+			"rate": 8.8157594781258,
+			"name": "Solomon Islands dollar",
+			"flagUrl": "https://flagcdn.com/w40/sbd.png"
+		},
+		{
+			"currency": "SCR",
+			"rate": 15.259873535836,
+			"name": "Seychelles rupee",
+			"flagUrl": "https://flagcdn.com/w40/scr.png"
+		},
+		{
+			"currency": "SDG",
+			"rate": 622.52863275422,
+			"name": "Sudanese pound",
+			"flagUrl": "https://flagcdn.com/w40/sdg.png"
+		},
+		{
+			"currency": "SOS",
+			"rate": 592.56624597331,
+			"name": "Somali shilling",
+			"flagUrl": "https://flagcdn.com/w40/sos.png"
+		},
+		{
+			"currency": "SRD",
+			"rate": 36.396250072366,
+			"name": "Surinamese dollar",
+			"flagUrl": "https://flagcdn.com/w40/srd.png"
+		},
+		{
+			"currency": "SSP",
+			"rate": 4397.6231439395,
+			"name": "South Sudanese pound",
+			"flagUrl": "https://flagcdn.com/w40/ssp.png"
+		},
+		{
+			"currency": "STN",
+			"rate": 24.621938556797,
+			"name": "São Tomé and Príncipe Dobra",
+			"flagUrl": "https://flagcdn.com/w40/stn.png"
+		},
+		{
+			"currency": "SVC",
+			"rate": 9.0714256482829,
+			"name": "Salvadoran colon",
+			"flagUrl": "https://flagcdn.com/w40/svc.png"
+		},
+		{
+			"currency": "SZL",
+			"rate": 19.434347347151,
+			"name": "Swazi lilangeni",
+			"flagUrl": "https://flagcdn.com/w40/szl.png"
+		},
+		{
+			"currency": "TOP",
+			"rate": 2.5096287740422,
+			"name": "Tongan paʻanga",
+			"flagUrl": "https://flagcdn.com/w40/top.png"
+		},
+		{
+			"currency": "TTD",
+			"rate": 7.0340356059892,
+			"name": "Trinidad Tobago Dollar",
+			"flagUrl": "https://flagcdn.com/w40/ttd.png"
+		},
+		{
+			"currency": "TZS",
+			"rate": 2598.2192124535,
+			"name": "Tanzanian shilling",
+			"flagUrl": "https://flagcdn.com/w40/tzs.png"
+		},
+		{
+			"currency": "UGX",
+			"rate": 3813.2649478017,
+			"name": "Ugandan shilling",
+			"flagUrl": "https://flagcdn.com/w40/ugx.png"
+		},
+		{
+			"currency": "UYU",
+			"rate": 45.578745942034,
+			"name": "Uruguayan Peso",
+			"flagUrl": "https://flagcdn.com/w40/uyu.png"
+		},
+		{
+			"currency": "VES",
+			"rate": 56.84387132478,
+			"name": "Venezuelan Bolivar",
+			"flagUrl": "https://flagcdn.com/w40/ves.png"
+		},
+		{
+			"currency": "VUV",
+			"rate": 128.80791284999,
+			"name": "Vanuatu vatu",
+			"flagUrl": "https://flagcdn.com/w40/vuv.png"
+		},
+		{
+			"currency": "WST",
+			"rate": 2.9420704132663,
+			"name": "Samoan tala",
+			"flagUrl": "https://flagcdn.com/w40/wst.png"
+		},
+		{
+			"currency": "XCD",
+			"rate": 2.7991626719285,
+			"name": "East Caribbean Dollar",
+			"flagUrl": "https://flagcdn.com/w40/xcd.png"
 		},
 		{
 			"currency": "XPF",
-			"rate": 119.96411941947,
-			"name": "CFP Franc"
+			"rate": 119.92562388891,
+			"name": "CFP Franc",
+			"flagUrl": "https://flagcdn.com/w40/xpf.png"
 		},
 		{
 			"currency": "YER",
-			"rate": 258.16095695376,
-			"name": "Yemeni rial"
+			"rate": 258.07811515859,
+			"name": "Yemeni rial",
+			"flagUrl": "https://flagcdn.com/w40/yer.png"
 		},
 		{
 			"currency": "ZMW",
-			"rate": 28.909503330277,
-			"name": "Zambian kwacha"
+			"rate": 28.900226500885,
+			"name": "Zambian kwacha",
+			"flagUrl": "https://flagcdn.com/w40/zmw.png"
 		},
 		{
 			"currency": "IRR",
-			"rate": 43294.93450544,
-			"name": "Iranian rial"
+			"rate": 43281.041505746,
+			"name": "Iranian rial",
+			"flagUrl": "https://flagcdn.com/w40/irr.png"
 		},
 		{
 			"currency": "SYP",
-			"rate": 13478.611685656,
-			"name": "Syrian pound"
+			"rate": 13474.286506506,
+			"name": "Syrian pound",
+			"flagUrl": "https://flagcdn.com/w40/syp.png"
 		}
 	]
 }

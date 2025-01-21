@@ -12,7 +12,7 @@ app.set('view engine', 'ejs');
 app.use('/', express.static(__dirname+ "/htdocs" )); 
 
 
-app.listen(process.env.PORT, function() { 
+app.listen(8000, function() { 
     console.log('server is running and Listening on port 8000'); 
 
    });
@@ -22,7 +22,7 @@ app.get('/',function(request,response) {
    response.render('index.ejs', megaJSON)
    });
 
-   refreshlFoatrates()
+   refreshFloatRates();
    refreshAirQuality();
    refreshWeather();
    refreshRSSLemonde();
@@ -30,7 +30,7 @@ app.get('/',function(request,response) {
    setInterval( refreshWeather, 60 * 60 * 1000); 
    setInterval(refreshRSSLemonde, 30 * 60 * 1000);
    setInterval( refreshAirQuality, 60 * 60 * 1000);
-   setInterval(refreshlFoatrates, 60 * 60 * 1000); 
+   setInterval( refreshFloatRates, 60 * 60 * 1000); 
    setInterval(refreshCrunchyrollRSS, 60 * 60 * 1000);
 
    function refreshWeather() {
