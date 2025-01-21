@@ -12,7 +12,7 @@ app.set('view engine', 'ejs');
 app.use('/', express.static(__dirname+ "/htdocs" )); 
 
 
-app.listen(8000, function() { 
+app.listen(process.env.PORT, function() { 
     console.log('server is running and Listening on port 8000'); 
 
    });
