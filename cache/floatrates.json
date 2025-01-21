@@ -1,0 +1,734 @@
+{
+	"floatrates": [
+		{
+			"currency": "AUD",
+			"rate": 1.6600866162339,
+			"name": "Australian Dollar"
+		},
+		{
+			"currency": "CAD",
+			"rate": 1.4955264407339,
+			"name": "Canadian Dollar"
+		},
+		{
+			"currency": "CHF",
+			"rate": 0.94264311104822,
+			"name": "Swiss Franc"
+		},
+		{
+			"currency": "CNY",
+			"rate": 7.5378721460657,
+			"name": "Chinese Yuan"
+		},
+		{
+			"currency": "GBP",
+			"rate": 0.84514147050952,
+			"name": "U.K. Pound Sterling"
+		},
+		{
+			"currency": "HKD",
+			"rate": 8.07030778334,
+			"name": "Hong Kong Dollar"
+		},
+		{
+			"currency": "IDR",
+			"rate": 16947.326740544,
+			"name": "Indonesian Rupiah"
+		},
+		{
+			"currency": "INR",
+			"rate": 89.619801215526,
+			"name": "Indian Rupee"
+		},
+		{
+			"currency": "JPY",
+			"rate": 161.27587741791,
+			"name": "Japanese Yen"
+		},
+		{
+			"currency": "KRW",
+			"rate": 1491.2070472946,
+			"name": "South Korean Won"
+		},
+		{
+			"currency": "MYR",
+			"rate": 4.6419190064491,
+			"name": "Malaysian Ringgit"
+		},
+		{
+			"currency": "NZD",
+			"rate": 1.8346110492922,
+			"name": "New Zealand Dollar"
+		},
+		{
+			"currency": "PHP",
+			"rate": 60.595658730471,
+			"name": "Philippine Peso"
+		},
+		{
+			"currency": "SGD",
+			"rate": 1.4081654720444,
+			"name": "Singapore Dollar"
+		},
+		{
+			"currency": "THB",
+			"rate": 35.276157863946,
+			"name": "Thai Baht"
+		},
+		{
+			"currency": "TWD",
+			"rate": 33.888479963718,
+			"name": "New Taiwan Dollar "
+		},
+		{
+			"currency": "USD",
+			"rate": 1.0370671463921,
+			"name": "U.S. Dollar"
+		},
+		{
+			"currency": "VND",
+			"rate": 26198.018839728,
+			"name": "Vietnamese Dong"
+		},
+		{
+			"currency": "AED",
+			"rate": 3.808997325667,
+			"name": "U.A.E Dirham"
+		},
+		{
+			"currency": "BGN",
+			"rate": 1.9592777307298,
+			"name": "Bulgarian Lev"
+		},
+		{
+			"currency": "BRL",
+			"rate": 6.2554416129551,
+			"name": "Brazilian Real"
+		},
+		{
+			"currency": "CZK",
+			"rate": 25.21979280578,
+			"name": "Czech Koruna"
+		},
+		{
+			"currency": "DKK",
+			"rate": 7.4743528764496,
+			"name": "Danish Krone"
+		},
+		{
+			"currency": "EGP",
+			"rate": 52.150592045664,
+			"name": "Egyptian Pound"
+		},
+		{
+			"currency": "HUF",
+			"rate": 412.67786691451,
+			"name": "Hungarian Forint"
+		},
+		{
+			"currency": "ILS",
+			"rate": 3.7103965105717,
+			"name": "Israeli New Sheqel"
+		},
+		{
+			"currency": "ISK",
+			"rate": 146.15517412395,
+			"name": "Icelandic Krona"
+		},
+		{
+			"currency": "MDL",
+			"rate": 19.361540192488,
+			"name": "Moldova Lei"
+		},
+		{
+			"currency": "MXN",
+			"rate": 21.531008953604,
+			"name": "Mexican Peso"
+		},
+		{
+			"currency": "NOK",
+			"rate": 11.822692309777,
+			"name": "Norwegian Krone"
+		},
+		{
+			"currency": "PLN",
+			"rate": 4.2614575342732,
+			"name": "Polish Zloty"
+		},
+		{
+			"currency": "RON",
+			"rate": 4.9854589304181,
+			"name": "Romanian New Leu"
+		},
+		{
+			"currency": "RSD",
+			"rate": 117.30815528389,
+			"name": "Serbian Dinar"
+		},
+		{
+			"currency": "RUB",
+			"rate": 103.65065695562,
+			"name": "Russian Rouble"
+		},
+		{
+			"currency": "SEK",
+			"rate": 11.50004174498,
+			"name": "Swedish Krona"
+		},
+		{
+			"currency": "TRY",
+			"rate": 36.960721842113,
+			"name": "Turkish Lira"
+		},
+		{
+			"currency": "UAH",
+			"rate": 43.725368051896,
+			"name": "Ukrainian Hryvnia"
+		},
+		{
+			"currency": "ZAR",
+			"rate": 19.338675658862,
+			"name": "South African Rand"
+		},
+		{
+			"currency": "CLP",
+			"rate": 1038.8617300478,
+			"name": "Chilean Peso"
+		},
+		{
+			"currency": "AMD",
+			"rate": 413.93805283448,
+			"name": "Armenia Dram"
+		},
+		{
+			"currency": "AZN",
+			"rate": 1.7630147308678,
+			"name": "Azerbaijan Manat"
+		},
+		{
+			"currency": "BDT",
+			"rate": 126.36811964933,
+			"name": "Bangladeshi taka"
+		},
+		{
+			"currency": "DOP",
+			"rate": 63.659338509837,
+			"name": "Dominican Peso"
+		},
+		{
+			"currency": "DZD",
+			"rate": 140.71372969986,
+			"name": "Algerian Dinar"
+		},
+		{
+			"currency": "GEL",
+			"rate": 2.9486171756829,
+			"name": "Georgian lari"
+		},
+		{
+			"currency": "IQD",
+			"rate": 1358.9254505739,
+			"name": "Iraqi dinar"
+		},
+		{
+			"currency": "KGS",
+			"rate": 90.671382109784,
+			"name": "Kyrgyzstan Som"
+		},
+		{
+			"currency": "KZT",
+			"rate": 549.96723607112,
+			"name": "Kazakhstani Tenge"
+		},
+		{
+			"currency": "LYD",
+			"rate": 5.1335537352079,
+			"name": "Libyan Dinar"
+		},
+		{
+			"currency": "MAD",
+			"rate": 10.426119077572,
+			"name": "Moroccan Dirham"
+		},
+		{
+			"currency": "PKR",
+			"rate": 289.06946459088,
+			"name": "Pakistani Rupee"
+		},
+		{
+			"currency": "SAR",
+			"rate": 3.8911067347415,
+			"name": "Saudi Riyal"
+		},
+		{
+			"currency": "TJS",
+			"rate": 11.349172929158,
+			"name": "Tajikistan Ruble"
+		},
+		{
+			"currency": "TMT",
+			"rate": 3.6307218923164,
+			"name": "New Turkmenistan Manat"
+		},
+		{
+			"currency": "TND",
+			"rate": 3.3239471441816,
+			"name": "Tunisian Dinar"
+		},
+		{
+			"currency": "UZS",
+			"rate": 13450.466266728,
+			"name": "Uzbekistan Sum"
+		},
+		{
+			"currency": "JOD",
+			"rate": 0.73536095608043,
+			"name": "Jordanian Dinar"
+		},
+		{
+			"currency": "LBP",
+			"rate": 92817.509602096,
+			"name": "Lebanese Pound"
+		},
+		{
+			"currency": "BYN",
+			"rate": 3.3939378470902,
+			"name": "Belarussian Ruble"
+		},
+		{
+			"currency": "AFN",
+			"rate": 77.130411328384,
+			"name": "Afghan afghani"
+		},
+		{
+			"currency": "ALL",
+			"rate": 98.730481239988,
+			"name": "Albanian lek"
+		},
+		{
+			"currency": "ANG",
+			"rate": 1.8563863828303,
+			"name": "Neth. Antillean Guilder"
+		},
+		{
+			"currency": "AOA",
+			"rate": 952.38070163441,
+			"name": "Angolan kwanza"
+		},
+		{
+			"currency": "ARS",
+			"rate": 1081.0060762623,
+			"name": "Argentine Peso"
+		},
+		{
+			"currency": "AWG",
+			"rate": 1.8563863828303,
+			"name": "Aruban florin"
+		},
+		{
+			"currency": "BAM",
+			"rate": 1.9661952665065,
+			"name": "Bosnia and Herzegovina convertible mark"
+		},
+		{
+			"currency": "BBD",
+			"rate": 2.0741342927843,
+			"name": "Barbadian Dollar"
+		},
+		{
+			"currency": "BHD",
+			"rate": 0.39005627452515,
+			"name": "Bahrain Dinar"
+		},
+		{
+			"currency": "BIF",
+			"rate": 3026.2134045157,
+			"name": "Burundian franc"
+		},
+		{
+			"currency": "BND",
+			"rate": 1.4151603547656,
+			"name": "Brunei Dollar"
+		},
+		{
+			"currency": "BOB",
+			"rate": 7.1656643772257,
+			"name": "Bolivian Boliviano"
+		},
+		{
+			"currency": "BSD",
+			"rate": 1.0370671463921,
+			"name": "Bahamian Dollar"
+		},
+		{
+			"currency": "BWP",
+			"rate": 14.484156680679,
+			"name": "Botswana Pula"
+		},
+		{
+			"currency": "BZD",
+			"rate": 2.0741342927843,
+			"name": "Belize dollar"
+		},
+		{
+			"currency": "CDF",
+			"rate": 2933.3446246301,
+			"name": "Congolese franc"
+		},
+		{
+			"currency": "COP",
+			"rate": 4496.1361404875,
+			"name": "Colombian Peso"
+		},
+		{
+			"currency": "CRC",
+			"rate": 520.68136605671,
+			"name": "Costa Rican Colón"
+		},
+		{
+			"currency": "CUP",
+			"rate": 24.889611513411,
+			"name": "Cuban peso"
+		},
+		{
+			"currency": "CVE",
+			"rate": 110.84936884154,
+			"name": "Cape Verde escudo"
+		},
+		{
+			"currency": "DJF",
+			"rate": 184.30862681087,
+			"name": "Djiboutian franc"
+		},
+		{
+			"currency": "ERN",
+			"rate": 15.950084669114,
+			"name": "Eritrean nakfa"
+		},
+		{
+			"currency": "ETB",
+			"rate": 132.47185693593,
+			"name": "Ethiopian birr"
+		},
+		{
+			"currency": "FJD",
+			"rate": 2.4430792741006,
+			"name": "Fiji Dollar"
+		},
+		{
+			"currency": "GHS",
+			"rate": 15.471260433144,
+			"name": "Ghanaian Cedi"
+		},
+		{
+			"currency": "GIP",
+			"rate": 0.8503628904519,
+			"name": "Gibraltar pound"
+		},
+		{
+			"currency": "GMD",
+			"rate": 72.5323716675,
+			"name": "Gambian dalasi"
+		},
+		{
+			"currency": "GNF",
+			"rate": 8923.1390521493,
+			"name": "Guinean franc"
+		},
+		{
+			"currency": "GTQ",
+			"rate": 8.0043970851139,
+			"name": "Guatemalan Quetzal"
+		},
+		{
+			"currency": "GYD",
+			"rate": 216.97523662255,
+			"name": "Guyanese dollar"
+		},
+		{
+			"currency": "HNL",
+			"rate": 26.348803994012,
+			"name": "Honduran Lempira"
+		},
+		{
+			"currency": "HTG",
+			"rate": 135.04906867051,
+			"name": "Haitian gourde"
+		},
+		{
+			"currency": "JMD",
+			"rate": 162.91202955381,
+			"name": "Jamaican Dollar"
+		},
+		{
+			"currency": "KES",
+			"rate": 134.25646492185,
+			"name": "Kenyan shilling"
+		},
+		{
+			"currency": "KHR",
+			"rate": 4185.1128187163,
+			"name": "Cambodian riel"
+		},
+		{
+			"currency": "KMF",
+			"rate": 494.57501997815,
+			"name": "\tComoro franc"
+		},
+		{
+			"currency": "KWD",
+			"rate": 0.32008741703301,
+			"name": "Kuwaiti Dinar"
+		},
+		{
+			"currency": "LAK",
+			"rate": 21316.374342864,
+			"name": "Lao kip"
+		},
+		{
+			"currency": "LKR",
+			"rate": 307.54941999628,
+			"name": "Sri Lanka Rupee"
+		},
+		{
+			"currency": "LRD",
+			"rate": 199.75988178045,
+			"name": "Liberian dollar"
+		},
+		{
+			"currency": "LSL",
+			"rate": 19.440585676275,
+			"name": "Lesotho loti"
+		},
+		{
+			"currency": "MGA",
+			"rate": 4859.5784247516,
+			"name": "Malagasy ariary"
+		},
+		{
+			"currency": "MKD",
+			"rate": 61.998741125999,
+			"name": "Macedonian denar"
+		},
+		{
+			"currency": "MMK",
+			"rate": 2177.8812194105,
+			"name": "Myanma Kyat"
+		},
+		{
+			"currency": "MNT",
+			"rate": 3557.8158735077,
+			"name": "Mongolian togrog"
+		},
+		{
+			"currency": "MOP",
+			"rate": 8.3148336252514,
+			"name": "Macanese pataca"
+		},
+		{
+			"currency": "MRU",
+			"rate": 41.213265542354,
+			"name": "Mauritanian ouguiya"
+		},
+		{
+			"currency": "MUR",
+			"rate": 48.6278533072,
+			"name": "Mauritian Rupee"
+		},
+		{
+			"currency": "MVR",
+			"rate": 15.970793842452,
+			"name": "Maldivian rufiyaa"
+		},
+		{
+			"currency": "MWK",
+			"rate": 1798.1975264187,
+			"name": "Malawian kwacha"
+		},
+		{
+			"currency": "MZN",
+			"rate": 66.229142695147,
+			"name": "Mozambican metical"
+		},
+		{
+			"currency": "NAD",
+			"rate": 19.440585676275,
+			"name": "Namibian dollar"
+		},
+		{
+			"currency": "NGN",
+			"rate": 1604.425812692,
+			"name": "Nigerian Naira"
+		},
+		{
+			"currency": "NIO",
+			"rate": 38.174546209861,
+			"name": "Nicaraguan Córdoba"
+		},
+		{
+			"currency": "NPR",
+			"rate": 143.59459308792,
+			"name": "Nepalese Rupee"
+		},
+		{
+			"currency": "OMR",
+			"rate": 0.39880238171167,
+			"name": "Omani Rial"
+		},
+		{
+			"currency": "PAB",
+			"rate": 1.0370671463921,
+			"name": "Panamanian Balboa"
+		},
+		{
+			"currency": "PEN",
+			"rate": 3.8734196962401,
+			"name": "Peruvian Nuevo Sol"
+		},
+		{
+			"currency": "PGK",
+			"rate": 4.1952160804663,
+			"name": "Papua New Guinean kina"
+		},
+		{
+			"currency": "PYG",
+			"rate": 8217.6502632601,
+			"name": "Paraguayan Guaraní"
+		},
+		{
+			"currency": "QAR",
+			"rate": 3.7749002856751,
+			"name": "Qatari Rial"
+		},
+		{
+			"currency": "RWF",
+			"rate": 1441.7486211426,
+			"name": "Rwandan franc"
+		},
+		{
+			"currency": "SBD",
+			"rate": 8.8185892932013,
+			"name": "Solomon Islands dollar"
+		},
+		{
+			"currency": "SCR",
+			"rate": 15.264771879568,
+			"name": "Seychelles rupee"
+		},
+		{
+			"currency": "SDG",
+			"rate": 622.72846135824,
+			"name": "Sudanese pound"
+		},
+		{
+			"currency": "SOS",
+			"rate": 592.75645679976,
+			"name": "Somali shilling"
+		},
+		{
+			"currency": "SRD",
+			"rate": 36.407933088152,
+			"name": "Surinamese dollar"
+		},
+		{
+			"currency": "SSP",
+			"rate": 4399.0347591611,
+			"name": "South Sudanese pound"
+		},
+		{
+			"currency": "STN",
+			"rate": 24.629842076975,
+			"name": "São Tomé and Príncipe Dobra"
+		},
+		{
+			"currency": "SVC",
+			"rate": 9.0743375309312,
+			"name": "Salvadoran colon"
+		},
+		{
+			"currency": "SZL",
+			"rate": 19.440585676275,
+			"name": "Swazi lilangeni"
+		},
+		{
+			"currency": "TOP",
+			"rate": 2.5104343524335,
+			"name": "Tongan paʻanga"
+		},
+		{
+			"currency": "TTD",
+			"rate": 7.0362934965372,
+			"name": "Trinidad Tobago Dollar"
+		},
+		{
+			"currency": "TZS",
+			"rate": 2599.0532279363,
+			"name": "Tanzanian shilling"
+		},
+		{
+			"currency": "UGX",
+			"rate": 3814.4889869401,
+			"name": "Ugandan shilling"
+		},
+		{
+			"currency": "UYU",
+			"rate": 45.593376493458,
+			"name": "Uruguayan Peso"
+		},
+		{
+			"currency": "VES",
+			"rate": 56.862117925589,
+			"name": "Venezuelan Bolivar"
+		},
+		{
+			"currency": "VUV",
+			"rate": 128.84925955126,
+			"name": "Vanuatu vatu"
+		},
+		{
+			"currency": "WST",
+			"rate": 2.9430148032793,
+			"name": "Samoan tala"
+		},
+		{
+			"currency": "XAF",
+			"rate": 659.43335997087,
+			"name": "Central African CFA Franc"
+		},
+		{
+			"currency": "XCD",
+			"rate": 2.8000611892652,
+			"name": "East Caribbean Dollar"
+		},
+		{
+			"currency": "XOF",
+			"rate": 659.43335997087,
+			"name": "West African CFA Franc"
+		},
+		{
+			"currency": "XPF",
+			"rate": 119.96411941947,
+			"name": "CFP Franc"
+		},
+		{
+			"currency": "YER",
+			"rate": 258.16095695376,
+			"name": "Yemeni rial"
+		},
+		{
+			"currency": "ZMW",
+			"rate": 28.909503330277,
+			"name": "Zambian kwacha"
+		},
+		{
+			"currency": "IRR",
+			"rate": 43294.93450544,
+			"name": "Iranian rial"
+		},
+		{
+			"currency": "SYP",
+			"rate": 13478.611685656,
+			"name": "Syrian pound"
+		}
+	]
+}

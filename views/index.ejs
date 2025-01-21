@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agregator</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icon-css/css/flag-icons.min.css">
+    <style>
+        .currency-row {
+            display: flex;
+            align-items: center;
+            margin: 10px 0;
+        }
+        .flag {
+            margin-right: 10px;
+        }
+        .rate {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="col-left">
+           
+          
+            <div class="row row1"> 
+                <h2>TAUX DE CHANGE</h2>
+                <div class="floatrates-board">
+                    <!-- 1 Euro -->
+                    <div class="currency-row">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg" alt="EUR flag" class="flag">
+                        <strong>1 Euro </strong>
+                    </div>
+        
+                    <!-- Conversion des devises en 3 colonnes -->
+                    <% floatrates.floatrates.forEach(function(rate) { %>
+                        <div class="currency-row">
+                            <!-- Utilisation du CDN pour le drapeau -->
+                            <span class="flag-icon flag-icon-<%= rate.currency.toLowerCase() %>"></span>
+                            <div><%= rate.currency %></div>
+                            <div class="rate"><%= rate.rate.toFixed(2) %></div>
+                        </div>
+                    <% }); %>
+        
+                </div>
+            </div>
+            
+            
+            
+                <div class="row row2">
+                    <h2>DIVERTISSEMENT</h2>
+                    <div class="manga-article">
+                        <!-- Manga 1 -->
+                        <div class="manga-item">
+                            <a href="http://www.crunchyroll.com/watch/G9DU9Z990/steal-the-imperial-command-from-ogasawaras-residence-at-night" target="_blank">
+                                <img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b45fc904d70b8d1e8f537e878aa43f341723302376_thumb.jpg" alt="The Elusive Samurai Episode 6" class="manga-image">
+                            </a>
+                            <div class="manga-content">
+                                <a href="http://www.crunchyroll.com/watch/G9DU9Z990/steal-the-imperial-command-from-ogasawaras-residence-at-night" target="_blank">
+                                    <h3>The Elusive Samurai (Hindi Dub) - Episode 6 - Steal the Imperial Command from Ogasawara's Residence at Night</h3>
+                                </a>
+                                <p>Tokiyuki and Genba sneak into the Ogasawara's residence and successfully infiltrate the warehouse where the Emperor’s Imperial Command is kept. However, Sadamune’s subordinate, Sukefusa Ichikawa, catches on and hears what these two are doing…</p>
+                            </div>
+                        </div>
+                
+                        <!-- Manga 2 -->
+                        <div class="manga-item">
+                            <a href="http://www.crunchyroll.com/watch/GK9UGVGWW/the-gentle-uncle" target="_blank">
+                                <img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a86c8d8bbf8286fb52985b37052b09961720878584_thumb.jpg" alt="The Elusive Samurai Episode 2" class="manga-image">
+                            </a>
+                            <div class="manga-content">
+                                <a href="http://www.crunchyroll.com/watch/GK9UGVGWW/the-gentle-uncle" target="_blank">
+                                    <h3>The Elusive Samurai (Portuguese Dub) - Episode 2 - The Gentle Uncle</h3>
+                                </a>
+                                <p>Takauji Ashikaga, once considered the guardian of the Kamakura shogunate, stages a rebellion that led to its quick destruction. Tokiyuki’s older brother, Kunitoki, successfully evades the eyes of the warriors loyal to Takauji, and he is placed under the care of their uncle, Muneshige Godaiin.</p>
+                            </div>
+                        </div>
+                
+                        <!-- Manga 3 (Spanish Dub) -->
+                        <div class="manga-item">
+                            <a href="http://www.crunchyroll.com/watch/G14UVQV5P/the-gentle-uncle" target="_blank">
+                                <img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a86c8d8bbf8286fb52985b37052b09961720878584_thumb.jpg" alt="The Elusive Samurai Episode 2 Spanish Dub" class="manga-image">
+                            </a>
+                            <div class="manga-content">
+                                <a href="http://www.crunchyroll.com/watch/G14UVQV5P/the-gentle-uncle" target="_blank">
+                                    <h3>The Elusive Samurai (Spanish Dub) - Episode 2 - The Gentle Uncle</h3>
+                                </a>
+                                <p>Takauji Ashikaga, once considered the guardian of the Kamakura shogunate, stages a rebellion that led to its quick destruction. Tokiyuki’s older brother, Kunitoki, successfully evades the eyes of the warriors loyal to Takauji, and he is placed under the care of their uncle, Muneshige Godaiin.</p>
+                            </div>
+                        </div>
+                
+                        <!-- Manga 4 (English Dub) -->
+                        <div class="manga-item">
+                            <a href="http://www.crunchyroll.com/watch/GN7UNXN0N/settling-the-score-a-dog-shooting-competition-and-then" target="_blank">
+                                <img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0e6501b76d62ee1808d4e133c502b2861722699236_thumb.jpg" alt="The Elusive Samurai Episode 5 English Dub" class="manga-image">
+                            </a>
+                            <div class="manga-content">
+                                <a href="http://www.crunchyroll.com/watch/GN7UNXN0N/settling-the-score-a-dog-shooting-competition-and-then" target="_blank">
+                                    <h3>The Elusive Samurai (English Dub) - Episode 5 - Settling the Score! A Dog-Shooting Competition and then…</h3>
+                                </a>
+                                <p>Tokiyuki faces off against Sadamune in a dog-shooting competition, even though his opponent excels with the bow and possesses an almost prodigy-like eye for detail. With a large lead in points, Tokiyuki faces defeat as he gets hit.</p>
+                            </div>
+                        </div>
+                
+                        <!-- Manga 5 (French Dub) -->
+                        <div class="manga-item">
+                            <a href="http://www.crunchyroll.com/watch/GX9U31321/a-forest-inhabited-by-a-god" target="_blank">
+                                <img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/38ba929d7da5b3c383543958bbb61b211721475125_thumb.jpg" alt="The Elusive Samurai Episode 3 French Dub" class="manga-image">
+                            </a>
+                            <div class="manga-content">
+                                <a href="http://www.crunchyroll.com/watch/GX9U31321/a-forest-inhabited-by-a-god" target="_blank">
+                                    <h3>The Elusive Samurai (French Dub) - Episode 3 - A Forest Inhabited by a God</h3>
+                                </a>
+                                <p>Tokiyuki risks his life and wins a game of tag, defeating the enemy who betrayed his brother, their uncle, Muneshige. As soon as he arrives in Suwa, Yorishige urges him to begin his lessons and training to take back Kamakura.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            <div class="row row3">
+                <div class="row-col left">
+                    <h2>METEO</h2>
+                    <div class="weather-info">
+                        <!-- En-tête de la météo -->
+                        <div class="weather-header">
+                            <strong><%= new Date(weather.forecast[0].time).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' }) %></strong>
+                        </div> 
+                        
+                        <!-- Boucle pour afficher la météo de chaque heure entre 7h et 18h -->
+                        <% for (let i = 7; i <= 18; i++) { %>
+                            <div class="weather-row">
+                                <img src="https://www.weatherbit.io/static/img/icons/<%= weather.forecast[i].icon %>" alt="<%= weather.forecast[i].description %>" class="weather-icon">
+                                <div><%= i %>h</div>
+                                <div class="temp"><%= weather.forecast[i].temperature %>°C</div>
+                            </div>
+                        <% } %>
+                    </div>
+                </div>
+                
+                <div class="row-col right">
+                    <h2>QUALITE DE L'AIR</h2>
+                    <div class="air-quality-info">
+                        <div class="air-quality-header">
+                            <strong><%= new Date(airquality.forecast[7].time).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' }) %></strong>
+                        </div>
+                        <div class="air-quality-board">
+                            <% for (let i = 0; i < airquality.forecast.length; i++) { %>
+                                <div class="air-quality-row">
+                                    <div class="time"><%= new Date(airquality.forecast[i].time).getHours() + 'h' %></div>
+                                    <div class="air-quality"><%= airquality.forecast[i].airquality %> µg/m³</div>
+                                    <% if (i + 1 < airquality.forecast.length) { %>
+                                        <div class="time"><%= new Date(airquality.forecast[i + 1].time).getHours() + 'h' %></div>
+                                        <div class="air-quality"><%= airquality.forecast[i + 1].airquality %> µg/m³</div>
+                                    <% } %>
+                                </div>
+                                <% i++; %> <!-- Skip the next element in the next iteration to avoid duplicating times -->
+                            <% } %>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+            </div>
+        </div>
+        <div class="col-right">
+            <div class="row top">
+                <h2>RSS LE MONDE</h2>
+                <div class="news-article">
+                    <% for (let i = 0; i < lemonde.item.length; i++) { %>
+                        <div class="article-item">
+                            <a href="<%= lemonde.item[i].link %>" target="_blank">
+                                <img src="<%= lemonde.item[i].imageUrl %>" alt="<%= lemonde.item[i].title %>" class="article-image">
+                            </a>
+                            <div class="article-content">
+                                <a href="<%= lemonde.item[i].link %>" target="_blank">
+                                    <h3><%= lemonde.item[i].title %></h3>
+                                </a>
+                                <p><%= lemonde.item[i].description %></p>
+                            </div>
+                        </div>
+                    <% } %>
+                </div>
+            </div>
+        </div>
+        
+        
+            
+        <div class="row bottom">
+            <h2>TRAINS DEPUIS BRUXELLES NORD</h2>
+            <div class="train-info">
+              <% liveboard.departures.departure.forEach(function(train) { %>
+                <div class="traintrack">
+                  <div class="time">
+                    <%= new Date(train.time * 1000).toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }) %>
+                  </div>
+                  <div class="delay">
+                    <%= train.delay ? (train.delay / 60) + "'" : 'On Time' %>
+                  </div>
+                  <div class="destination">
+                    <%= train.station %>
+                  </div>
+                  <div class="train">
+                    <%= train.vehicleinfo.shortname %>
+                  </div>
+                  <div class="platform">
+                    <%= train.platform %>
+                  </div>
+                </div>
+              <% }); %>
+            </div>
+          </div>
+          
+            </div>
+            </div>
+
+  
+</body>
+</html>
